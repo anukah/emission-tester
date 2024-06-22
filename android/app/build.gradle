@@ -85,7 +85,7 @@ android {
 
     namespace "com.emitiontester"
     defaultConfig {
-        applicationId 'com.mhmdumair.Emitiontester'
+        applicationId 'com.anukahettiarachchi.expoejected'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
